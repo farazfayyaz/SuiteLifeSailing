@@ -1,0 +1,54 @@
+#container{
+    width: 725px;
+    height: 900px;
+    border: solid thick red;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#title{
+    width: 200px;
+    height: 100px;
+    border: thick solid blue;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#navbar{
+    width: fit-content;
+    height: auto;
+    border: thick solid green;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#info{
+    width: 360px;
+    height: 400px;
+    float: left;
+    border: thick solid yellow;
+}
+
+#locations{
+    width: 345px;
+    height: 200px;
+    float: right;
+    border: thick solid black;
+    align-self: center;
+}
+
+#activities{
+
+}
+
+#price{
+
+}
+
+#pics{
+
+}
+
+#reviews{
+
+}
